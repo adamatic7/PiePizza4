@@ -12,8 +12,8 @@
 
   <ItemGroup>
     <Folder Include="Areas\Identity\" />
-    <Folder Include="Areas\Products\Pages\" />
     <Folder Include="Areas\Services\Pages\Manage\" />
+    <Folder Include="Data\Migrations\" />
   </ItemGroup>
 
 </Project>

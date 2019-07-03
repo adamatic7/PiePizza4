@@ -6,6 +6,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using PiePizza4.Data;
+using PiePizza4.Models;
 
 [assembly: HostingStartup(typeof(PiePizza4.Areas.Identity.IdentityHostingStartup))]
 namespace PiePizza4.Areas.Identity
